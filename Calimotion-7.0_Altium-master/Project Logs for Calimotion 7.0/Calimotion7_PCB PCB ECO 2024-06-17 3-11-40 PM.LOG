@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=U1-16
+Removed Pin From Net: NetName=NetD?_2 Pin=U?-1
+Removed Pin From Net: NetName=VUSB_FUSED Pin=U?-4
+Change Footprint: Footprint Not Found JST_S12B-PHDSS
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Added Component: Designator=J?(AMPHENOL_10152803-00011LF)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/10152803-00011LF/Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10152803-00011LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=10152803-00011LF&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10152803-00011LF/Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 0603 - led
+Add Component: Footprint Not Found WDFN8, 3.3 x 3.3 - MOSFETP
+Add Component: Footprint Not Found SOT-416_N
+Add Component: Footprint Not Found SOT-416_N
+Add Component: Footprint Not Found 0402
+Add Component: Footprint Not Found 0402
+Add Component: Footprint Not Found 0402
+Add Component: Footprint Not Found SOT-25
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-K
+Add Pin To Net: Unknown Pin: Pin D?-K
+Add Pin To Net: Unknown Pin: Pin D?-K
+Add Pin To Net: Unknown Pin: Pin D?-K
+Add Pin To Net: Unknown Pin: Pin D?-K
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin J?-6
+Add Pin To Net: Unknown Pin: Pin J?-7
+Add Pin To Net: Unknown Pin: Pin J?-8
+Add Pin To Net: Unknown Pin: Pin J?-9
+Add Pin To Net: Unknown Pin: Pin J?-10
+Add Pin To Net: Unknown Pin: Pin J?-11
+Add Pin To Net: Unknown Pin: Pin J?-12
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=VUSB Pin=J?-A4
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=D+ Pin=J?-A6
+Added Pin To Net: NetName=D- Pin=J?-A7
+Added Pin To Net: NetName=VUSB Pin=J?-A9
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=GND Pin=J?-B1
+Added Pin To Net: NetName=VUSB Pin=J?-B4
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=D+ Pin=J?-B6
+Added Pin To Net: NetName=D- Pin=J?-B7
+Added Pin To Net: NetName=VUSB Pin=J?-B9
+Added Pin To Net: NetName=GND Pin=J?-B12
+Add Pin To Net: Unknown Pin: Pin LED_?-A
+Add Pin To Net: Unknown Pin: Pin LED_?-K
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-2
+Add Pin To Net: Unknown Pin: Pin Q?-D
+Add Pin To Net: Unknown Pin: Pin Q?-D
+Add Pin To Net: Unknown Pin: Pin Q?-G
+Add Pin To Net: Unknown Pin: Pin Q?-G
+Add Pin To Net: Unknown Pin: Pin Q?-G
+Add Pin To Net: Unknown Pin: Pin Q?-S
+Add Pin To Net: Unknown Pin: Pin Q?-S
+Add Pin To Net: Unknown Pin: Pin Q?-S
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Added Pin To Net: NetName=D+ Pin=U?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-1
+Added Pin To Net: NetName=NetD?_2 Pin=U?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-3
+Added Pin To Net: NetName=VBAT Pin=U?-3
+Added Pin To Net: NetName=D- Pin=U?-4
+Added Pin To Net: NetName=VUSB_FUSED Pin=U?-4
+Added Pin To Net: NetName=NetR?_1 Pin=U?-5
+Add Pin To Net: Unknown Pin: Pin X?-1
+Add Pin To Net: Unknown Pin: Pin X?-2
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetD?_K" already exists
+Add Net: Net with name "NetQ?_D" already exists
+Add Net: Net with name "PERIPHERAL_EN" already exists
+Added Member To Class: ClassName=Calimotion 7 Member=Component * DRV5055
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? Schottky Diode
+Add Class Member: Failed to add class member : Component D? Light-Emitting Diode
+Added Member To Class: ClassName=Power_Delivery Member=Component J? 10152803-00011LF
+Added Member To Class: ClassName=Power_Delivery Member=Component J? S12B-PHDSS
+Added Member To Class: ClassName=Calimotion 7 Member=Component J S8B-PHDSS
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM03B-SRSS-TB
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM04B-SRSS-TB
+Add Class Member: Failed to add class member : Component LED_? LED Green
+Added Member To Class: ClassName=Calimotion 7 Member=Component Q? MOSFET-P
+Added Member To Class: ClassName=Calimotion 7 Member=Component Q? MOSFET-N
+Added Member To Class: ClassName=Calimotion 7 Member=Component Q ADC124EUQ
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Added Member To Class: ClassName=Power_Delivery Member=Component U? XC6210B332MR-G
+Added Member To Class: ClassName=Power_Delivery Member=Component U? XC6802A42XMR-G
+Added Member To Class: ClassName=Calimotion 7 Member=Component U LIS2DE12TR
+Add Class Member: Failed to add class member : Component X? Fuse

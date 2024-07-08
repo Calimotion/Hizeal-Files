@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=ACCEL_INT2 Pin=U2-37
+Removed Pin From Net: NetName=ACCEL_INT1 Pin=U2-38
+Add Pin To Net: Unknown Pin: Pin D1-K
+Add Pin To Net: Unknown Pin: Pin D2-K
+Add Pin To Net: Unknown Pin: Pin D3-K
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin Q1-D
+Add Pin To Net: Unknown Pin: Pin Q1-G
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Add Pin To Net: Unknown Pin: Pin Q2-D
+Add Pin To Net: Unknown Pin: Pin Q2-G
+Add Pin To Net: Unknown Pin: Pin Q2-S
+Add Pin To Net: Unknown Pin: Pin Q3-D
+Add Pin To Net: Unknown Pin: Pin Q3-G
+Add Pin To Net: Unknown Pin: Pin Q3-S
+Added Pin To Net: NetName=ACCEL_INT1 Pin=U2-37
+Added Pin To Net: NetName=ACCEL_INT2 Pin=U2-38

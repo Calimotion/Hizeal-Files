@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VBAT Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=VBAT Pin=U2-3
+Removed Pin From Net: NetName=VCPU Pin=U2-5
+Removed Member From Class: ClassName=Calimotion 7 Member=U2
+Added Component: Designator=U(SOT-25)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Pin To Net: NetName=VBAT Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=VBAT Pin=U-3
+Added Pin To Net: NetName=VCPU Pin=U-5
+Added Member To Class: ClassName=Calimotion 7 Member=Component * MIC803-29D3VC3
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM04B-SRSS-TB
+Added Member To Class: ClassName=Calimotion 7 Member=Component J S8B-PHDSS
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM03B-SRSS-TB
+Add Class Member: Failed to add class member : Component R1 Resistor
+Added Member To Class: ClassName=Calimotion 7 Member=Component U DMG1024UV-7
+Added Member To Class: ClassName=Calimotion 7 Member=Component U XC6210B332MR-G

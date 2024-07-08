@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=J Old Footprint=BM03B-SRSS-TB New Footprint=JST_S12B-PHDSS
+Added Component: Designator=D?(LED_SK6812MINI-012)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK6812MINI-012/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK6812MINI-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK6812MINI-012/DONGGUANG+OPSCO+OPTOELECTRONICS+CO.%252C+LTD/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Calimotion 7 Member=Component D? SK6812MINI-012
+Added Member To Class: ClassName=Calimotion 7 Member=Component J S8B-PHDSS
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM04B-SRSS-TB
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM03B-SRSS-TB
+Added Member To Class: ClassName=Calimotion 7 Member=Component U DMG1024UV-7
+Added Member To Class: ClassName=Calimotion 7 Member=Component U AP7366EA-33W5

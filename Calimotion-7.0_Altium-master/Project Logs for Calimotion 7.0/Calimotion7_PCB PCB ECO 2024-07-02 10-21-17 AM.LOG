@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VUSB Pin=TP3-1
+Change Component Comment : Designator=TP3 Old Comment=VUSB New Comment=VBAT
+Add Pin To Net: Unknown Pin: Pin D1-K
+Add Pin To Net: Unknown Pin: Pin D2-K
+Add Pin To Net: Unknown Pin: Pin D3-K
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-K
+Add Pin To Net: Unknown Pin: Pin D8-K
+Add Pin To Net: Unknown Pin: Pin D9-K
+Add Pin To Net: Unknown Pin: Pin D10-K
+Added Pin To Net: NetName=VBAT Pin=TP3-1

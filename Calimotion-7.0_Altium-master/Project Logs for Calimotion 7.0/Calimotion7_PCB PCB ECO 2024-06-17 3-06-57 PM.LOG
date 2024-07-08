@@ -1,0 +1,290 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Calimotion 7 Member=J?
+Change Footprint: Footprint Not Found JST_S12B-PHDSS
+Change Component Footprint: Designator=J Old Footprint=JST_S12B-PHDSS New Footprint=1x06 Conn. 2.54mm
+Change Component Comment : Designator=J? Old Comment=10152803-00011LF New Comment=S12B-PHDSS
+Change Component Comment : Designator=J Old Comment=S12B-PHDSS New Comment=1x06 Conn. 2.54mm
+Change component parameters: Designator = "J" ("J"); Footprint = "JST_S12B-PHDSS"; UniqueID = "\ZIXVIPMG" ("\ZIXVIPMG")
+Change component parameters: Designator = "J?" ("J?"); Footprint = "AMPHENOL_10152803-00011LF"; UniqueID = "\EGZXUAYK" ("\EGZXUAYK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "S8B-PHDSS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S8B-PHDSS/JST%20Sales%20America%20Inc./view-part/761599/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=*?(MIC803-29D3VC3)
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Add Component: Footprint Not Found ESD5B5.0ST1G
+Added Component: Designator=J?(AMPHENOL_10152803-00011LF)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/10152803-00011LF/Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10152803-00011LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=10152803-00011LF&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10152803-00011LF/Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 0603 - led
+Add Component: Footprint Not Found WDFN8, 3.3 x 3.3 - MOSFETP
+Added Component: Designator=Q?(SOT-883)
+Add Component: Footprint Not Found SOT-416_N
+Add Component: Footprint Not Found SOT-416_N
+Add Component: Footprint Not Found 0402
+Add Component: Footprint Not Found 0402
+Add Component: Footprint Not Found 0402
+Added Component: Designator=U?(SOT-25)
+Added Component: Designator=U?(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT-25
+Added Pin To Net: NetName=VCPU Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*?-1
+Added Pin To Net: NetName=EN Pin=*?-2
+Added Pin To Net: NetName=VCPU Pin=*?-3
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-A
+Add Pin To Net: Unknown Pin: Pin D?-K
+Added Pin To Net: NetName=GND Pin=J-3
+Added Pin To Net: NetName=VCPU Pin=J-3
+Added Pin To Net: NetName=GND Pin=J-4
+Added Pin To Net: NetName=GND Pin=J-4
+Added Pin To Net: NetName=VCPU Pin=J-5
+Added Pin To Net: NetName=GND Pin=J-6
+Added Pin To Net: NetName=GND Pin=J-7
+Added Pin To Net: NetName=GND Pin=J-8
+Add Pin To Net: Unknown Pin: Pin J?-9
+Add Pin To Net: Unknown Pin: Pin J?-10
+Add Pin To Net: Unknown Pin: Pin J?-11
+Add Pin To Net: Unknown Pin: Pin J?-12
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=GND Pin=J?-B1
+Added Pin To Net: NetName=GND Pin=J?-B12
+Add Pin To Net: Unknown Pin: Pin LED_?-A
+Added Pin To Net: NetName=GND Pin=Q-1
+Added Pin To Net: NetName=GND Pin=Q-4
+Added Pin To Net: NetName=VBAT Pin=Q?-3
+Add Pin To Net: Unknown Pin: Pin Q?-S
+Add Pin To Net: Unknown Pin: Pin Q?-S
+Add Pin To Net: Unknown Pin: Pin Q?-S
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Added Pin To Net: NetName=VCPU Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-42
+Added Pin To Net: NetName=GND Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U-5
+Added Pin To Net: NetName=GND Pin=U-6
+Added Pin To Net: NetName=GND Pin=U-7
+Added Pin To Net: NetName=GND Pin=U-8
+Added Pin To Net: NetName=VCPU Pin=U-9
+Added Pin To Net: NetName=VCPU Pin=U-10
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=VBAT Pin=U?-3
+Added Pin To Net: NetName=VCPU Pin=U?-5
+Added Pin To Net: NetName=ACCEL_INT1 Pin=U-12
+Added Pin To Net: NetName=ACCEL_INT1 Pin=U1-21
+Added Net: Name=ACCEL_INT1
+Added Pin To Net: NetName=ACCEL_INT2 Pin=U-11
+Added Pin To Net: NetName=ACCEL_INT2 Pin=U1-22
+Added Net: Name=ACCEL_INT2
+Added Net: Name=AUDIO_BCLK
+Added Net: Name=AUDIO_LRCLK
+Added Net: Name=AUDIO_SDATA
+Added Pin To Net: NetName=BUTTON_A Pin=J-1
+Added Pin To Net: NetName=BUTTON_A Pin=U1-7
+Added Net: Name=BUTTON_A
+Added Pin To Net: NetName=BUTTON_B Pin=J-2
+Added Pin To Net: NetName=BUTTON_B Pin=U1-8
+Added Net: Name=BUTTON_B
+Added Pin To Net: NetName=CPU_LED Pin=U1-4
+Added Net: Name=CPU_LED
+Added Pin To Net: NetName=CS0 Pin=U-2
+Added Pin To Net: NetName=CS0 Pin=U1-25
+Added Net: Name=CS0
+Added Pin To Net: NetName=CS1 Pin=J-1
+Added Pin To Net: NetName=CS1 Pin=U1-26
+Added Net: Name=CS1
+Added Pin To Net: NetName=D+ Pin=J?-A6
+Added Pin To Net: NetName=D+ Pin=J?-B6
+Added Pin To Net: NetName=D+ Pin=U?-1
+Added Pin To Net: NetName=D+ Pin=U?-6
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J?-A7
+Added Pin To Net: NetName=D- Pin=J?-B7
+Added Pin To Net: NetName=D- Pin=U?-3
+Added Pin To Net: NetName=D- Pin=U?-4
+Added Net: Name=D-
+Added Pin To Net: NetName=ESP_D+ Pin=U1-24
+Added Net: Name=ESP_D+
+Added Pin To Net: NetName=ESP_D- Pin=U1-23
+Added Net: Name=ESP_D-
+Added Pin To Net: NetName=HALL_EFFECT_IN Pin=*-2
+Added Pin To Net: NetName=HALL_EFFECT_IN Pin=U1-9
+Added Net: Name=HALL_EFFECT_IN
+Added Pin To Net: NetName=LED_EN Pin=U1-12
+Added Net: Name=LED_EN
+Added Pin To Net: NetName=LED_OUT_A Pin=J-3
+Added Pin To Net: NetName=LED_OUT_A Pin=J-4
+Added Pin To Net: NetName=LED_OUT_A Pin=U1-13
+Added Net: Name=LED_OUT_A
+Added Pin To Net: NetName=LED_OUT_B Pin=J-5
+Added Pin To Net: NetName=LED_OUT_B Pin=J-6
+Added Pin To Net: NetName=LED_OUT_B Pin=U1-14
+Added Net: Name=LED_OUT_B
+Added Pin To Net: NetName=MISO Pin=J-4
+Added Pin To Net: NetName=MISO Pin=U-3
+Added Pin To Net: NetName=MISO Pin=U1-29
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J-3
+Added Pin To Net: NetName=MOSI Pin=U-4
+Added Pin To Net: NetName=MOSI Pin=U1-28
+Added Net: Name=MOSI
+Added Pin To Net: NetName=MOSPHET_OUT_A Pin=Q-3
+Added Net: Name=MOSPHET_OUT_A
+Added Pin To Net: NetName=MOSPHET_OUT_B Pin=Q-6
+Added Net: Name=MOSPHET_OUT_B
+Added Pin To Net: NetName=NetC?_1 Pin=U1-16
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=U?-1
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_K Pin=J-2
+Added Pin To Net: NetName=NetD?_K Pin=U1-6
+Added Net: Name=NetD?_K
+Add Net: Net with name "NetD?_K" already exists
+Added Pin To Net: NetName=NetJ?_3 Pin=U1-17
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=U1-18
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Net: Name=NetJ?_B5
+Added Net: Name=NetLED_?_K
+Added Net: Name=NetQ?_D
+Add Net: Net with name "NetQ?_D" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=U?-5
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=OUT_A Pin=Q-5
+Added Pin To Net: NetName=OUT_A Pin=U1-10
+Added Net: Name=OUT_A
+Added Pin To Net: NetName=OUT_B Pin=Q-2
+Added Pin To Net: NetName=OUT_B Pin=U1-11
+Added Net: Name=OUT_B
+Added Net: Name=PERIPHERAL_EN
+Add Net: Net with name "PERIPHERAL_EN" already exists
+Added Pin To Net: NetName=SCK Pin=J-2
+Added Pin To Net: NetName=SCK Pin=U-1
+Added Pin To Net: NetName=SCK Pin=U1-27
+Added Net: Name=SCK
+Added Net: Name=VIB_MOTOR_EN
+Added Net: Name=VIB_MOTOR_PWM
+Added Pin To Net: NetName=VOUT Pin=J-1
+Added Pin To Net: NetName=VOUT Pin=J-2
+Added Net: Name=VOUT
+Added Pin To Net: NetName=VUSB_FUSED Pin=Q?-1
+Added Pin To Net: NetName=VUSB_FUSED Pin=U?-4
+Added Net: Name=VUSB_FUSED
+Added Pin To Net: NetName=VUSB Pin=J?-A4
+Added Pin To Net: NetName=VUSB Pin=J?-A9
+Added Pin To Net: NetName=VUSB Pin=J?-B4
+Added Pin To Net: NetName=VUSB Pin=J?-B9
+Added Pin To Net: NetName=VUSB Pin=U?-5
+Added Net: Name=VUSB
+Added Class: Name=Power_Delivery
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Add Class Member: Failed to add class member : Component D? TVS
+Added Member To Class: ClassName=Calimotion 7 Member=Component J S8B-PHDSS
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM03B-SRSS-TB
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM04B-SRSS-TB
+Add Class Member: Failed to add class member : Component LED_? LED Green
+Added Member To Class: ClassName=Calimotion 7 Member=Component Q? MOSFET-P
+Added Member To Class: ClassName=Calimotion 7 Member=Component Q? MOSFET-N
+Added Member To Class: ClassName=Calimotion 7 Member=Component Q? MOSFET-N
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5

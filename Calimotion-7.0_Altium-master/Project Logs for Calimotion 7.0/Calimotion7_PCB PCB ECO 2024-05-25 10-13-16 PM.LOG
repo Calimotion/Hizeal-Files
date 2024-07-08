@@ -1,0 +1,46 @@
+Added Component: Designator=*(MIC803-29D3VC3)
+Add Component: Footprint Not Found LED_SK6812MINI-012
+Added Component: Designator=J(JST_S8B-PHDSS)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S8B-PHDSS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S8B-PHDSS/JST%20Sales%20America%20Inc./view-part/761599/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J(BM04B-SRSS-TB)
+Added Component: Designator=J(BM03B-SRSS-TB)
+Add Component: Footprint Not Found JST_S8B-PHDSS
+Added Component: Designator=MT?(XDCR_ICM-42670-P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ICM-42670-P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(74LVC2G17GW,125)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Nexperia USA Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74LVC2G17GW,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(74LVC2G17GW,125)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DMG1024UV-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-563 Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DMG1024UV-7/Diodes%20Inc./view-part/391731/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(SOT-25)
+Added Member To Class: ClassName=Calimotion 7 Member=Component * MIC803-29D3VC3
+Add Class Member: Failed to add class member : Component D? SK6812MINI-012
+Added Member To Class: ClassName=Calimotion 7 Member=Component J S8B-PHDSS
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM04B-SRSS-TB
+Added Member To Class: ClassName=Calimotion 7 Member=Component J BM03B-SRSS-TB
+Added Member To Class: ClassName=Calimotion 7 Member=Component J S12B-PHDSS
+Added Member To Class: ClassName=Calimotion 7 Member=Component MT? ICM-42670-P
+Added Member To Class: ClassName=Calimotion 7 Member=Component U? 74LVC2G17GW,125
+Added Member To Class: ClassName=Calimotion 7 Member=Component U DMG1024UV-7
+Added Member To Class: ClassName=Calimotion 7 Member=Component U AP7366EA-33W5

@@ -1,0 +1,72 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\Dumpster Baby\Desktop\Calimacil\Calimotion-7.0_Altium\Project Outputs for Calimotion 7.0\Pick Place for Calimotion7_PCB.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       03-07-24,,,,,,,
+Time:       15:48,,,,,,,
+Revision:   d2aea15cc5e7bf18701383c5a0c1804d5ad40a00,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+Q1,MOSFET-P,BottomLayer,TRANS_8PDFN,5.8,28.7375,90,AON7423
+R2,Resistor,BottomLayer,RES_0402_1005_RF,2.275,26.225,180,Resistor
+D10,TVS,TopLayer,SOD-923,14.05,9.875,180,TVS 5.8V 50W SOD523
+D9,TVS,TopLayer,SOD-923,16.125,12.305,90,TVS 5.8V 50W SOD523
+D8,TVS,TopLayer,SOD-923,17.45,9.6,270,TVS 5.8V 50W SOD523
+D7,TVS,TopLayer,SOD-923,17.05,7.45,90,TVS 5.8V 50W SOD523
+X1,Fuse,TopLayer,RES_0402_1005_RF,14.05,27.075,90,Fuse
+U8,XC6802A42XMR-G,TopLayer,SOT-25,13.925,18.1,90,Charger IC Lithium Ion/Polymer SOT-25
+U5,USBLC6-2SC6,BottomLayer,SOT95P280X145-6N,5.55,48,180,17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6
+U1,DMG1024UV-7,BottomLayer,"74LVC2G17GW,125",3.775,13.815,270,Mosfet Array 2 N-Channel _Dual_ 20V 1.38A 530mW Surface Mount SOT-563
+R19,Resistor,TopLayer,RES_0402_1005_RF,16.75,25.5,0,Resistor
+R18,Resistor,TopLayer,RES_0402_1005_RF,14.475,22.3,180,Resistor
+R17,Resistor,TopLayer,RES_0402_1005_RF,10.95,26.3,90,Resistor
+R16,Resistor,TopLayer,RES_0402_1005_RF,10.95,23.775,270,Resistor
+R15,Resistor,BottomLayer,RES_0402_1005_RF,13.125,18.075,0,Resistor
+R14,Resistor,TopLayer,RES_0402_1005_RF,8.9,26.825,180,Resistor
+R13,Resistor,TopLayer,RES_0402_1005_RF,14.6,15.775,180,Resistor
+R12,Resistor,BottomLayer,RES_0402_1005_RF,17.65,48.585,270,Resistor
+R11,Resistor,TopLayer,RES_0402_1005_RF,6.225,28.425,180,Resistor
+R10,Resistor,TopLayer,RES_0402_1005_RF,15.075,24.325,270,Resistor
+R9,Resistor,TopLayer,RES_0402_1005_RF,8.45,28.425,180,Resistor
+R8,Resistor,TopLayer,RES_0402_1005_RF,17.7,4.25,90,Resistor
+R7,Resistor,TopLayer,RES_0402_1005_RF,8.875,10.4,270,Resistor
+R6,Resistor,TopLayer,RES_0402_1005_RF,7.725,10.4,270,Resistor
+R5,Resistor,TopLayer,RES_0402_1005_RF,9.45,15.425,90,Resistor
+R4,Resistor,TopLayer,RES_0402_1005_RF,8.3,15.425,90,Resistor
+R3,Resistor,BottomLayer,RES_0402_1005_RF,0.725,48.875,90,Resistor
+R1,Resistor,BottomLayer,RES_0402_1005_RF,1.4,30.4,270,Resistor
+Q3,MOSFET-N,BottomLayer,TRANS_SOT-416,0.75,46.6,90,MOSFET N-CH 20V 915MA SOT-416
+J6,S12B-PHDSS,BottomLayer,JST_S12B-PHDSS,9.25,6.25,180,"Connector Header Through Hole, Right Angle 12 position 0.079 _2.00mm_"
+J1,S8B-PHDSS,BottomLayer,JST_S8B-PHDSS,9.25,32.975,0,"Connector Header Through Hole, Right Angle 8 position 0.079 _2.00mm_"
+D5,SHOTTKY,TopLayer,SOD-923,14.05,29.1,270,Generic Shottky
+D1,TVS,TopLayer,SOD-923,4.575,32.945,270,TVS 5.8V 50W SOD523
+C17,Capacitor,TopLayer,CAP_0402_1005,16.81,27.25,0,Capacitor
+C16,Capacitor,TopLayer,CAP_0402_1005,2.775,6.26,270,Capacitor
+C15,Capacitor,BottomLayer,CAP_0402_1005,15.3,18.1,180,Capacitor
+C14,Capacitor,TopLayer,CAP_0402_1005,17.65,48.575,90,Capacitor
+C13,Capacitor,TopLayer,CAP_0402_1005,6.21,27.25,180,Capacitor
+C12,Capacitor,TopLayer,CAP_0402_1005,13.925,24.315,90,Capacitor
+C11,Capacitor,TopLayer,CAP_0402_1005,17.3,31.975,0,Capacitor
+C10,Capacitor,TopLayer,CAP_0402_1005,17.3,33.1,0,Capacitor
+C9,Capacitor,BottomLayer,CAP_0402_1005,16.025,35.525,180,Capacitor
+C8,Capacitor,TopLayer,CAP_0402_1005,10.05,10.4,90,Capacitor
+C7,Capacitor,BottomLayer,CAP_0402_1005,4.51,42.175,0,Capacitor
+C6,Capacitor,TopLayer,CAP_0402_1005,10.6,17.29,90,Capacitor
+C5,Capacitor,TopLayer,CAP_0402_1005,7.85,17.8,180,Capacitor
+C4,Capacitor,BottomLayer,CAP_0402_1005,13.675,44.95,0,Capacitor
+C3,Capacitor,TopLayer,CAP_0402_1005,2.85,16.575,180,Capacitor
+C2,Capacitor,TopLayer,CAP_0402_1005,0.91,17.725,180,Capacitor
+C1,Capacitor,TopLayer,CAP_0402_1005,17.7,1.54,90,Capacitor
+J5,10152803-00011LF,BottomLayer,AMPHENOL_10152803-00011LF,13.84,25.025,270,USB 3.2 Type C GEN 2 Receptacle SMT Dual Row 24in
+U9,USBLC6-2SC6,TopLayer,SOT95P280X145-6N,7.095,24.3,0,17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6
+U6,XC6210B332MR-G,BottomLayer,SOT-25,16.675,33.4,180,Linear Voltage Regulator IC Positive Fixed 1 Output 700mA SOT-25
+U7,MIC803-29D3VC3,BottomLayer,MIC803-29D3VC3,14.5,48.3,0,Supervisor Open Drain or Open Collector 1 Channel SC-70-3 Voltage - Threshold 2.93V
+U3,LIS2DE12TR,BottomLayer,LIS2DE12TR_200X200X100-12N,13.75,42.775,90,"Accelerometer X, Y, Z Axis ±2g, 4g, 8g, 16g 0.5Hz ~ 2.69kHz 12-LGA _2x2_"
+U4,DRV5055,BottomLayer,SOT23-3,4.7664,44.2402,180,Hall Effect Sensor Single Axis SOT-23-3
+J3,BM03B-SRSS-TB,BottomLayer,BM03B-SRSS-TB,9.2375,16.5375,180,"Connector Header Surface Mount 3 position 0.039 (1.00mm)"""
+J4,BM04B-SRSS-TB,BottomLayer,BM04B-SRSS-TB,9.25,11.4125,180,"Connector Header Surface Mount 4 position 0.039 (1.00mm)"""
+U2,ESP32-S3-MINI-1,TopLayer,ESP32-S3-MINI-1,9.25,43.4,0,"Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount"
